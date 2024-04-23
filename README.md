@@ -1,4 +1,4 @@
-# Problem-Solving
+# Problem-Solving Project
  Introduction
  
    COVID-19 is the infectious coronavirus pandemic caused by Severe Acute Respiratory Syndrome coronavirus (SARS-CoV-2)(1). SARS-CoV-2's receptor binding domain (RBD) is integral in the contagiousness of COVID-19. The SARS-CoV-2 RBD is typified by its ability to fuse, attach and gain viral entry into host cells(2). The RBD is capable of doing this because it is located on the Spike glycoprotein. The Spike glycoprotein is what regulates fusion to the host membrane, and releases the virus to the cytoplasm using  intracellular receptors(3). The C-terminal domain in SARS-CoV-2, is where the cleaved RBD is synthesized as a pro-peptide(4). The cleavage site causes the formation of the S1 subunit and the S2 subunit. To learn more about the significance of the variability of the RBD, I performed an analysis on the sequence by means of literature mining, and several bioinformatics websites, libraries and tools.
